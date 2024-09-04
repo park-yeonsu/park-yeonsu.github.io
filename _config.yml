@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Yeonsu
 middle_name:
 last_name: Park
-email: yspark@dblab.postech.ac.kr
+email: yeonsu.park@kangwon.ac.kr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -71,13 +71,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: yspark-dblab # your GitHub user name
+github_username: park-yeonsu # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: yeonsu-park # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: QHKPM20AAAAJ # your Google Scholar ID
+scholar_userid: DdYOuJkAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
