@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor @ <a href='https://www.kangwon.ac.kr/'>Kangwon National University</a>
+subtitle: Assistant Professor @ <a href='https://wwwk.kangwon.ac.kr/english/index.do'>Kangwon National University</a>
 
 profile:
   align: right
@@ -16,4 +16,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral research scientist at [POSTECH](https://postech.ac.kr/eng/) [GSAI](https://ai.postech.ac.kr), working with Professor [Wook-Shin Han](https://wscrony.github.io). I received my Ph.D. degree in Computer Science and Engineering at [POSTECH](https://postech.ac.kr/eng) under the supervision of Professor Wook-Shin Han. Prior to this, I received my B.S. degree in Software Engineering at [Sungkyunkwan University](https://www.skku.edu/eng/). My research interests include big data processing, database systems, query processing, and query optimization. Recently, I have been committed to developing new techniques to improve the ability of Apache Spark to process a massive number of small queries efficiently. 
+I am an assistant professor in the [Department of Computer Science and Engineering](https://cse.kangwon.ac.kr/cse/) at [Kangwon National University](https://wwwk.kangwon.ac.kr/english/index.do). Previously, I was a postdoctoral research scientist at [POSTECH](https://postech.ac.kr/eng). I received my Ph.D. in Computer Science and Engineering from POSTECH, where I was fortunate to be advised by Professor Wook-Shin Han. Before that, I obtained my B.S. degree in Software Engineering from [Sungkyunkwan University](https://www.skku.edu/eng/). My research interests include big data processing, query processing, and query optimization.
