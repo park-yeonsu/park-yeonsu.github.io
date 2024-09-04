@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yspark-dblab.github.io/sitemap.xml
+Sitemap: https://park-yeonsu.github.io/sitemap.xml
