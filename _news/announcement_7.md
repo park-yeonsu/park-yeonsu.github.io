@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was invited to serve as a reviwer for [SIGMOD Record](https://sigmodrecord.org/).
+I was invited to serve as a reviewer for [SIGMOD Record](https://sigmodrecord.org/).
